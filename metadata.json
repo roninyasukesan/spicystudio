@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Spicy Models - Dashboard Admin",
+  "description": "Painel de controle administrativo para gerenciamento de conteúdo, usuários, pagamentos e suporte da plataforma Spicy Models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
